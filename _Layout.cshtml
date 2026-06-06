@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Community Pantry Portal</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="topbar">
+        <div class="container app-nav">
+            <a class="brand" asp-controller="Pantries" asp-action="Index">Community Pantry Portal</a>
+
+            <nav class="main-links">
+                <a asp-controller="Pantries" asp-action="Index">Find a Pantry</a>
+                <a asp-controller="Home" asp-action="About">About Us</a>
+                <a asp-controller="Pantries" asp-action="Create">Register a Pantry</a>
+            </nav>
+
+            <button id="mobileMenuBtn" class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false">
+                ☰
+            </button>
+
+            <div class="auth-links">
+                <partial name="_LoginPartial" />
+            </div>
+        </div>
+
+        <nav id="mobileMenu" class="mobile-menu">
+            <a asp-controller="Pantries" asp-action="Index">Find a Pantry</a>
+            <a asp-controller="Home" asp-action="About">About Us</a>
+            <a asp-controller="Pantries" asp-action="Create">Register a Pantry</a>
+        </nav>
+    </header>
+
+    <main class="container py-4">
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success">@TempData["Success"]</div>
+        }
+        @RenderBody()
+    </main>
+
+    <footer class="footer-lite">
+        <div class="container">
+            Built with care for ITEC634 • Responsive • Accessible • Mobile-first
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        (function () {
+            const btn = document.getElementById('mobileMenuBtn');
+            const menu = document.getElementById('mobileMenu');
+
+            if (!btn || !menu) return;
+
+            btn.addEventListener('click', function () {
+                const isOpen = menu.classList.toggle('open');
+                btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+            });
+
+            // Optional: close menu when a link is clicked
+            menu.querySelectorAll('a').forEach(link => {
+                link.addEventListener('click', () => menu.classList.remove('open'));
+            });
+        })();
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
