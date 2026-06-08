@@ -1,0 +1,51 @@
+@model CommunityPantryPortal.Models.HelpRequest
+
+@{
+    ViewData["Title"] = "Submit Request";
+}
+
+<div class="panel" style="max-width:700px;margin:auto;">
+    <h2>Submit Request</h2>
+    <p class="muted">Complete the fields below. We will contact you soon.</p>
+
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-grid">
+            <div>
+                <label asp-for="PantryId"></label>
+                <select asp-for="PantryId" asp-items="ViewBag.PantryId" class="input">
+                    <option value="">Select pantry</option>
+                </select>
+                <span asp-validation-for="PantryId" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="RequestType"></label>
+                <input asp-for="RequestType" class="input" placeholder="Food, baby supplies, etc." />
+                <span asp-validation-for="RequestType" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="ContactEmail"></label>
+                <input asp-for="ContactEmail" class="input" />
+                <span asp-validation-for="ContactEmail" class="text-danger"></span>
+            </div>
+
+            <div>
+                <label asp-for="Notes"></label>
+                <textarea asp-for="Notes" rows="4" class="input" placeholder="Add details of your request"></textarea>
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div style="margin-top:12px;display:flex;gap:8px;">
+            <button type="submit" class="btn-main">Submit Request</button>
+            <a asp-action="Index" class="btn-soft">Cancel</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
