@@ -1,2 +1,1 @@
-# CommunityPantryPortal
-ITEC634 AT3 Project
+# Community Pantry Portal
