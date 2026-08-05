@@ -11,3 +11,4 @@ The platform is designed to:
 - Connect people in need with local pantry services
 - Simplify help request submission
 - Allow charities/churches/community groups to register pantries
+- - Support mobile-first, accessible, responsive web usage across devices
