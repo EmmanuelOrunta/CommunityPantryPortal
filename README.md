@@ -8,3 +8,4 @@ A responsive, data-driven ASP.NET Core MVC web application that helps people fin
 **Community Pantry Portal** was developed for **ITEC634 – Web and Mobile Application Development**.
 
 The platform is designed to:
+- Connect people in need with local pantry services
