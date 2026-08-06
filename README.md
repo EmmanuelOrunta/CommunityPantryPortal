@@ -15,3 +15,4 @@ The platform is designed to:
 
 
 ---
+## 🎯 Assignment Requirements Covered
