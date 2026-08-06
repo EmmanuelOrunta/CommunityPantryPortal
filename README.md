@@ -12,3 +12,6 @@ The platform is designed to:
 - Simplify help request submission
 - Allow charities/churches/community groups to register pantries
 - Support mobile-first, accessible, responsive web usage across devices
+
+
+---
