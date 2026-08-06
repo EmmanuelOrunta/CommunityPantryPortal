@@ -18,3 +18,5 @@ The platform is designed to:
 ## 🎯 Assignment Requirements Covered
 
 This project implements all core requirements:
+
+- ✅ Dynamic website using **ASP.NET Core MVC**
