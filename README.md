@@ -25,4 +25,4 @@ This project implements all core requirements:
 - ✅ **Error handling** (validation feedback + safe controller flow)
 - ✅ **Server-side authentication** with **ASP.NET Identity**
 - ✅ **Responsive design** (desktop + mobile layouts)
-- - ✅ Data display and data updating operations
+- ✅ Data display and data updating operations
