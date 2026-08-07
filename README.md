@@ -22,3 +22,4 @@ This project implements all core requirements:
 - ✅ Dynamic website using **ASP.NET Core MVC**
 - ✅ Data-driven operations using **Entity Framework Core + SQLite**
 - ✅ **User input validation** (Data Annotations + ModelState)
+- - ✅ **Error handling** (validation feedback + safe controller flow)
