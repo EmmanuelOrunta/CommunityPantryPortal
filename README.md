@@ -23,3 +23,4 @@ This project implements all core requirements:
 - ✅ Data-driven operations using **Entity Framework Core + SQLite**
 - ✅ **User input validation** (Data Annotations + ModelState)
 - ✅ **Error handling** (validation feedback + safe controller flow)
+- - ✅ **Server-side authentication** with **ASP.NET Identity**
