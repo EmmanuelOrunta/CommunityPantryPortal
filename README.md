@@ -24,3 +24,4 @@ This project implements all core requirements:
 - ✅ **User input validation** (Data Annotations + ModelState)
 - ✅ **Error handling** (validation feedback + safe controller flow)
 - ✅ **Server-side authentication** with **ASP.NET Identity**
+- - ✅ **Responsive design** (desktop + mobile layouts)
