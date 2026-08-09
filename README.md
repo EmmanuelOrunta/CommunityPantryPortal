@@ -27,3 +27,5 @@ This project implements all core requirements:
 - ✅ **Responsive design** (desktop + mobile layouts)
 - ✅ Data display and data updating operations
 - ✅ Report + screenshots + presentation support
+
+---
