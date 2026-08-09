@@ -31,3 +31,5 @@ This project implements all core requirements:
 ---
 
 ## ✨ Key Features
+
+### 1) Find a Pantry
