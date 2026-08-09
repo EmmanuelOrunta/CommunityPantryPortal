@@ -29,3 +29,5 @@ This project implements all core requirements:
 - ✅ Report + screenshots + presentation support
 
 ---
+
+## ✨ Key Features
