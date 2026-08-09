@@ -26,4 +26,4 @@ This project implements all core requirements:
 - ✅ **Server-side authentication** with **ASP.NET Identity**
 - ✅ **Responsive design** (desktop + mobile layouts)
 - ✅ Data display and data updating operations
-- - ✅ Report + screenshots + presentation support
+- ✅ Report + screenshots + presentation support
