@@ -33,3 +33,4 @@ This project implements all core requirements:
 ## ✨ Key Features
 
 ### 1) Find a Pantry
+- Search by suburb/city/keywords
