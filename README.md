@@ -35,4 +35,4 @@ This project implements all core requirements:
 ### 1) Find a Pantry
 - Search by suburb/city/keywords
 - Filter pantry records
-- - View pantry cards with details
+- View pantry cards with details
