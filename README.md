@@ -34,4 +34,4 @@ This project implements all core requirements:
 
 ### 1) Find a Pantry
 - Search by suburb/city/keywords
-- - Filter pantry records
+- Filter pantry records
