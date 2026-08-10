@@ -36,4 +36,4 @@ This project implements all core requirements:
 - Search by suburb/city/keywords
 - Filter pantry records
 - View pantry cards with details
-- - Map embed for location awareness
+- Map embed for location awareness
