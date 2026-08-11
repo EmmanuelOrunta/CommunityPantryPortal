@@ -37,3 +37,5 @@ This project implements all core requirements:
 - Filter pantry records
 - View pantry cards with details
 - Map embed for location awareness
+
+### 2) Register a Pantry
