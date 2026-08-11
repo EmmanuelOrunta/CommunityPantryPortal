@@ -39,3 +39,4 @@ This project implements all core requirements:
 - Map embed for location awareness
 
 ### 2) Register a Pantry
+- Authenticated users can submit new pantry records
