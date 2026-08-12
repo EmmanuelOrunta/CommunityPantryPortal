@@ -45,3 +45,4 @@ This project implements all core requirements:
 
 ### 3) Request Assistance
 - Guided request form for individuals/families
+- - Users select pantry + request type + notes + contact email
