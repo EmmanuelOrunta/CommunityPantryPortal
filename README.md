@@ -42,3 +42,5 @@ This project implements all core requirements:
 - Authenticated users can submit new pantry records
 - Form includes type, address, suburb, state, contact, and description
 - Form validation with clear user feedback
+
+### 3) Request Assistance
