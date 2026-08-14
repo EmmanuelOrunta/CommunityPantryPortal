@@ -50,4 +50,4 @@ This project implements all core requirements:
 
 ### 4) Authentication & Authorization
 - Register / Login / Logout using ASP.NET Identity
-- - Protected actions use `[Authorize]`
+- Protected actions use `[Authorize]`
