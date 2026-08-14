@@ -53,3 +53,4 @@ This project implements all core requirements:
 - Protected actions use `[Authorize]`
 
 ### 5) About Us
+- Mission, values, impact, and contact information
