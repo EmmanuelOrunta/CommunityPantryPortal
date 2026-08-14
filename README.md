@@ -47,3 +47,5 @@ This project implements all core requirements:
 - Guided request form for individuals/families
 - Users select pantry + request type + notes + contact email
 - `Status` and `CreatedAt` are set server-side
+
+### 4) Authentication & Authorization
