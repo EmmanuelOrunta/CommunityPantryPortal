@@ -54,3 +54,4 @@ This project implements all core requirements:
 
 ### 5) About Us
 - Mission, values, impact, and contact information
+- - Explains social purpose of the platform
