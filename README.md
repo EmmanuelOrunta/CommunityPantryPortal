@@ -49,3 +49,4 @@ This project implements all core requirements:
 - `Status` and `CreatedAt` are set server-side
 
 ### 4) Authentication & Authorization
+- Register / Login / Logout using ASP.NET Identity
