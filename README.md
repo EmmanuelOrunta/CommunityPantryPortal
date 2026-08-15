@@ -57,3 +57,4 @@ This project implements all core requirements:
 - Explains social purpose of the platform
 
 ### 6) Responsive Mobile UX
+- Mobile-friendly layout
