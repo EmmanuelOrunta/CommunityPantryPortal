@@ -60,3 +60,5 @@ This project implements all core requirements:
 - Mobile-friendly layout
 - Hamburger menu for iPhone/small screens
 - Touch-friendly buttons and spacing
+
+---
