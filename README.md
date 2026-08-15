@@ -59,4 +59,4 @@ This project implements all core requirements:
 ### 6) Responsive Mobile UX
 - Mobile-friendly layout
 - Hamburger menu for iPhone/small screens
-- - Touch-friendly buttons and spacing
+- Touch-friendly buttons and spacing
