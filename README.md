@@ -68,4 +68,4 @@ This project implements all core requirements:
 - **Backend:** ASP.NET Core MVC (.NET)
 - **Database:** SQLite
 - **ORM:** Entity Framework Core
-- - **Auth:** ASP.NET Core Identity
+- **Auth:** ASP.NET Core Identity
