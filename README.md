@@ -67,4 +67,4 @@ This project implements all core requirements:
 
 - **Backend:** ASP.NET Core MVC (.NET)
 - **Database:** SQLite
-- - **ORM:** Entity Framework Core
+- **ORM:** Entity Framework Core
