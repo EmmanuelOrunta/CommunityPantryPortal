@@ -62,3 +62,5 @@ This project implements all core requirements:
 - Touch-friendly buttons and spacing
 
 ---
+
+## 🧱 Tech Stack
