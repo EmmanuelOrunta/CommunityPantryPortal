@@ -66,4 +66,4 @@ This project implements all core requirements:
 ## 🧱 Tech Stack
 
 - **Backend:** ASP.NET Core MVC (.NET)
-- - **Database:** SQLite
+- **Database:** SQLite
