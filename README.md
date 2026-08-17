@@ -71,3 +71,5 @@ This project implements all core requirements:
 - **Auth:** ASP.NET Core Identity
 - **Frontend:** Razor Views + CSS + Bootstrap utilities
 - **Tools:** VS Code, .NET CLI
+
+---
