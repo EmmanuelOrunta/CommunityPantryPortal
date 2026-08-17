@@ -73,3 +73,5 @@ This project implements all core requirements:
 - **Tools:** VS Code, .NET CLI
 
 ---
+
+## 📂 Project Structure
