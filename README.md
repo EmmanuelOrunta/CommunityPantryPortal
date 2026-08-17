@@ -70,3 +70,4 @@ This project implements all core requirements:
 - **ORM:** Entity Framework Core
 - **Auth:** ASP.NET Core Identity
 - **Frontend:** Razor Views + CSS + Bootstrap utilities
+- - **Tools:** VS Code, .NET CLI
