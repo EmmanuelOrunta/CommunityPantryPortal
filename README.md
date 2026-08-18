@@ -79,3 +79,4 @@ This project implements all core requirements:
 ```text
 CommunityPantryPortal/
 ├── Controllers/
+│   ├── HomeController.cs
