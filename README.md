@@ -77,3 +77,4 @@ This project implements all core requirements:
 ## 📂 Project Structure
 
 ```text
+CommunityPantryPortal/
