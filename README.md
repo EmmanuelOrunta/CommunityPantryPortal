@@ -80,3 +80,4 @@ This project implements all core requirements:
 CommunityPantryPortal/
 ├── Controllers/
 │   ├── HomeController.cs
+│   ├── PantriesController.cs
