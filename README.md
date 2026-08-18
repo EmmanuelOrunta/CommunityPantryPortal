@@ -81,3 +81,4 @@ CommunityPantryPortal/
 ├── Controllers/
 │   ├── HomeController.cs
 │   ├── PantriesController.cs
+│   └── HelpRequestsController.cs
