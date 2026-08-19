@@ -84,3 +84,4 @@ CommunityPantryPortal/
 │   └── HelpRequestsController.cs
 ├── Data/
 │   ├── ApplicationDbContext.cs
+│   └── DbInitializer.cs
