@@ -89,3 +89,4 @@ CommunityPantryPortal/
 │   ├── Pantry.cs
 │   └── HelpRequest.cs
 ├── Views/
+│   ├── Home/
