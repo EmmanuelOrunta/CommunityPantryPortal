@@ -92,5 +92,5 @@ CommunityPantryPortal/
 │   ├── Home/
 │   │   └── About.cshtml
 │   ├── Pantries/
-   │   ├── Index.cshtml
+│   │   ├── Index.cshtml
 │   │   ├── Create.cshtml
