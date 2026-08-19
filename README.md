@@ -85,3 +85,4 @@ CommunityPantryPortal/
 ├── Data/
 │   ├── ApplicationDbContext.cs
 │   └── DbInitializer.cs
+├── Models/
