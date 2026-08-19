@@ -87,3 +87,4 @@ CommunityPantryPortal/
 │   └── DbInitializer.cs
 ├── Models/
 │   ├── Pantry.cs
+│   └── HelpRequest.cs
