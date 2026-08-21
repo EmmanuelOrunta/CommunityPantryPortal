@@ -97,3 +97,4 @@ CommunityPantryPortal/
 │   │   └── Details.cshtml
 │   ├── HelpRequests/
 │   │   ├── Index.cshtml
+│   │   └── Create.cshtml
