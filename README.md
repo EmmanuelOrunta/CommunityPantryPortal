@@ -99,3 +99,4 @@ CommunityPantryPortal/
 │   │   ├── Index.cshtml
 │   │   └── Create.cshtml
 │   └── Shared/
+│       └── _Layout.cshtml
