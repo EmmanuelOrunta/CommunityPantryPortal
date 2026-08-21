@@ -100,3 +100,4 @@ CommunityPantryPortal/
 │   │   └── Create.cshtml
 │   └── Shared/
 │       └── _Layout.cshtml
+├── wwwroot/
