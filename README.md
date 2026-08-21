@@ -95,3 +95,4 @@ CommunityPantryPortal/
 │   │   ├── Index.cshtml
 │   │   ├── Create.cshtml
 │   │   └── Details.cshtml
+│   ├── HelpRequests/
