@@ -102,3 +102,4 @@ CommunityPantryPortal/
 │       └── _Layout.cshtml
 ├── wwwroot/
 │   ├── css/site.css
+│   └── images/
