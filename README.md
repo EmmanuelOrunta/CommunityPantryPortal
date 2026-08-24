@@ -101,3 +101,4 @@ CommunityPantryPortal/
 │   └── Shared/
 │       └── _Layout.cshtml
 ├── wwwroot/
+│   ├── css/site.css
