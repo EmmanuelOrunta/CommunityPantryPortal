@@ -103,3 +103,4 @@ CommunityPantryPortal/
 ├── wwwroot/
 │   ├── css/site.css
 │   └── images/
+│       ├── hero.jpg
