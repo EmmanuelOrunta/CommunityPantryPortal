@@ -101,7 +101,7 @@ CommunityPantryPortal/
 │   └── Shared/
 │       └── _Layout.cshtml-
 ├── wwwroot/-
-│   ├── css/site.css-
+│   ├── css/site.css
 │   └── images/
 │       ├── hero.jpg
 │       └── pantry-default.jpg
