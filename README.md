@@ -102,7 +102,7 @@ CommunityPantryPortal/
 │       └── _Layout.cshtml-
 ├── wwwroot/-
 │   ├── css/site.css-
-│   └── images/-
+│   └── images/
 │       ├── hero.jpg
 │       └── pantry-default.jpg
 ├── Program.cs
