@@ -99,7 +99,7 @@ CommunityPantryPortal/
 │   │   ├── Index.cshtml
 │   │   └── Create.cshtml
 │   └── Shared/
-│       └── _Layout.cshtml-
+│       └── _Layout.cshtml
 ├── wwwroot/
 │   ├── css/site.css
 │   └── images/
