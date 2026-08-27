@@ -99,10 +99,11 @@ CommunityPantryPortal/
 │   │   ├── Index.cshtml
 │   │   └── Create.cshtml
 │   └── Shared/
-│       └── _Layout.cshtml
-├── wwwroot/
-│   ├── css/site.css
-│   └── images/
+│       └── _Layout.cshtml-
+├── wwwroot/-
+│   ├── css/site.css-
+│   └── images/-
 │       ├── hero.jpg
 │       └── pantry-default.jpg
 ├── Program.cs
+└── appsettings.json
