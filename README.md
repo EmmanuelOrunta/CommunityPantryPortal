@@ -100,7 +100,7 @@ CommunityPantryPortal/
 │   │   └── Create.cshtml
 │   └── Shared/
 │       └── _Layout.cshtml-
-├── wwwroot/-
+├── wwwroot/
 │   ├── css/site.css
 │   └── images/
 │       ├── hero.jpg
